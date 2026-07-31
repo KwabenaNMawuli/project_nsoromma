@@ -2,8 +2,8 @@
 
 A professional, accessibility-first landing page for **Nsoromma**, a Ghanaian-made
 assistive Android app that gives blind and low-vision users hands-free, turn-by-turn
-**voice navigation** with **real-time hazard alerts**. Built and tested on the
-University of Ghana, Legon campus, and adaptable to streets, markets and public spaces.
+**voice navigation** with **real-time hazard alerts**, designed for use across
+Ghana's streets, markets and public spaces.
 
 > *Nsoromma* — "child of the heavens" — is the Adinkra star symbol, which lets the
 > page nod to Ghana's black star and national colours without any literal flag motif.
